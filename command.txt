@@ -12,3 +12,5 @@
 10 branch -D test: удаление ветки (test название ветки)
 11 checkout test: переключится на другую ветку (test название ветки)
 12 merge test: совмещение веток (test в main)
+13 clone https://github.com/1Michael2021/git-curs.git: копировать с github проект.
+14 pull: Заберает с github все последние изменение
